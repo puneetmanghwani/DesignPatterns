@@ -1,4 +1,4 @@
-package TicTacToe;
+package DesignQuestions.TicTacToe;
 
 public class Main {
 

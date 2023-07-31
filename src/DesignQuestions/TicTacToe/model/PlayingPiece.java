@@ -1,4 +1,4 @@
-package TicTacToe.model;
+package DesignQuestions.TicTacToe.model;
 
 public abstract  class PlayingPiece {
 

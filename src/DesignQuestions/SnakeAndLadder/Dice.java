@@ -1,4 +1,4 @@
-package SnakeAndLadder;
+package DesignQuestions.SnakeAndLadder;
 
 import java.util.concurrent.ThreadLocalRandom;
 

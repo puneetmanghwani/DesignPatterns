@@ -1,4 +1,4 @@
-package SnakeAndLadder;
+package DesignQuestions.SnakeAndLadder;
 
 public class Player {
 
