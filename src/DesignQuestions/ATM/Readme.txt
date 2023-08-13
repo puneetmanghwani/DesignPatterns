@@ -1,0 +1,1 @@
+Have both state design and chain of responsibility pattern
