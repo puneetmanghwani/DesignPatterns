@@ -1,0 +1,1 @@
+To avoid this null check in image 1 as there can be many checks in large project.
