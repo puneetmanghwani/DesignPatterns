@@ -1,7 +1,7 @@
 Facade is used when we have to hide the system complexity from client
 
-ex-car - like user/client driving a car and he press accelerates or brakes speed goes up or down so as client we know functionality but we don't know the system complexity or classes
-or logic to accelerates or brakes.
+ex-car - like user/client driving a car and he press accelerates or brakes speed goes up or down so as client we know functionality
+but we don't know the system complexity or classes or logic to accelerates or brakes.
 
 facade is not necessary if client want to use direct classes or complexity he can
 

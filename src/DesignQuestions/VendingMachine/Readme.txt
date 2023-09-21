@@ -1,5 +1,5 @@
-At every state different operations are allowed . So in every state of product only specific operations are allowed so it is state
-design pattern
+At every state different operations are allowed . So in every state of product only specific operations are allowed so it is
+ state design pattern
 
 example - vending machine
 TV - off state -> press on button

@@ -6,7 +6,7 @@ public class MyHashMap<K,V> {
 
     private static final int INITIAL_SIZE = 1<<4;
 
-    private static final int MAXIMUM_CAPACITY = 1<<30;
+    private static final int MAXIMUM_CAPACITY = 1<<30; // bcs as size can be between -2^31 to 2^31 - 1 as size is integer and as size should be in 2's power so that's why 2^30
 
     Entry[] hashTable;
 
